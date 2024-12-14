@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "yandextodo-642a1"
+  },
+  "targets": {
+    "yandextodo-642a1": {
+      "hosting": {
+        "dev": [
+          "tgwebtest"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
